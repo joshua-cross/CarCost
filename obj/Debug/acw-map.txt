@@ -1,0 +1,4 @@
+CarCosts.MainActivity, CarCosts;md51d398a7279f569b3f6c5850303bc783f.MainActivity
+CarCosts.MainActivity, CarCosts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51d398a7279f569b3f6c5850303bc783f.MainActivity
+CarCosts.MainActivity;md51d398a7279f569b3f6c5850303bc783f.MainActivity
+carcosts.MainActivity;md51d398a7279f569b3f6c5850303bc783f.MainActivity
